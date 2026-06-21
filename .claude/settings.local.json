@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(git -C \"C:/Users/157608/loop-demo\" status)"
+      "Bash(git -C \"C:/Users/157608/loop-demo\" status)",
+      "Bash(gh --version)",
+      "Bash(gh auth *)"
     ]
   }
 }
