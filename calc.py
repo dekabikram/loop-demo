@@ -1,4 +1,5 @@
 """A tiny command-line calculator: calc.py <operation> <a> <b>."""
+
 import sys
 
 OPERATIONS = {
